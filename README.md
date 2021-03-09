@@ -1,2 +1,4 @@
-# InstaClone
-Full stack instagram clone using django, html, css and bootstrap.
+# Django Insta CLone
+
+This is a personal project built purely using Django.
+
